@@ -10,7 +10,7 @@ stock = {
     "gel_douche": 100,
     "papier_hygiénique": 100,
     "pantoufle": 50,
-    "brosse_a_dent": 50
+    "brosse_à_dent": 50
 }
 
 reservations = []

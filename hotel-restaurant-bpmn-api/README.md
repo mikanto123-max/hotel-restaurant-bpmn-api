@@ -1,4 +1,4 @@
-# Hôtel & Restaurant - BPMN + Web Service
+# Hôtel & Restaurant  Web Service
 
 ## Processus BPMN
 - Client réserve sur site web ou Facebook
